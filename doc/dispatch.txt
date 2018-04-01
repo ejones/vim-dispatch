@@ -178,6 +178,11 @@ foreground makes rather than a split.
 
 Tmux 1.6 or newer is required.
 
+Job ~
+
+Uses Vim 8's job support to update the quickfix list in real time.
+Experimental.
+
 GNU Screen ~
 
 A new window is always used, since splits in GNU Screen are awkward.
